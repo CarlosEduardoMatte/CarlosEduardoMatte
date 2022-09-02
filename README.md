@@ -1,4 +1,4 @@
-# Olá!                                                                                                                                                                                              Meu nome é Carlos Eduardo Matte. Cursor Ciência da Computação desde 2020 e faço diversos cursos para aprimorar meus conhecimentos dev Full-Stack.👩🏻‍💻
+# Olá!                                                                                                                                                                                              Meu nome é Carlos Eduardo Matte. Estou cursando Ciência da Computação desde 2020 e faço diversos cursos para aprimorar meus conhecimentos como dev Full-Stack.👩🏻‍💻
 
 📍Novo Hamburgo- Rio Grande do Sul
 👩🏻‍💻 Estudante de Ciência da Computação- Unicsul
