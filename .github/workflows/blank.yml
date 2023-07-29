@@ -1,6 +1,3 @@
-Funcionamento. "Contributions in the last year": 
-Basicamente o Snake game funciona realizando uma coleta da sua tabela de contribuições no Github. ele faz a renderização dessas informações e gera dois arquivos, um em formato gif e outro em svg. São esses arquivos que iremos utilizar para inserir a animação no perfil do Github.
-
 Repositorio do projeto a ser utilizado: Platane/snk
 
 Exemple
