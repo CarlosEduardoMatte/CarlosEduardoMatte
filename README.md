@@ -20,6 +20,7 @@
 <img  align="center" height="30"  width="40"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png">
 </div>
 
+![Snake animation](https://github.com/USERNAME/CarlosEduardoMatte/blob/output/github-contribution-grid-snake.svg)
 
 <h3>Minha Redes sociais👇🏽<h3>
 
